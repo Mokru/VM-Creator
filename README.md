@@ -6,7 +6,7 @@ This requires
 - Hyper-V management tools enabled for the local machine (I assume Hyper-V servers have the tools enabled by default... If not, do the needful)
 - Valid credentials and permissions to remote to the host machine
 
-How to use
+# How to use
 - Run VmCreator.ps1 with powershell
 - Wait for GUI to initialize
 - Enter the VM host server (IP or server name)
@@ -25,3 +25,6 @@ Now if nothing has exploded or combusted you should have a VM running with your 
 - Further "idiot"-proof inputs to combat potential user errors
 - Look into having customizable unattend files for windows deployments
 - Ability to scan Hyper-V hosts for exsiting VM's
+
+# Thank you
+If you find this to solve any issues or have suggestions for improvements please feel free to tell me about them
