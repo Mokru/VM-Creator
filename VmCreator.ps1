@@ -183,7 +183,6 @@ function vmCreate([string]$VMloc,[string]$NetworkSwitch1,[string]$VMname,[int64]
 $s = New-PSSession -ComputerName $VMhost -Credential $global:cr
 
 $script = {
-	
 	#Declare parameters
 	param($global:VMloc,$global:NetworkSwitch1,$global:VMname,$global:VMram,$global:VMhd,$global:VLANid,$global:ISO)
 	
