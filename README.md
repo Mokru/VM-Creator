@@ -27,4 +27,5 @@ Now if nothing has exploded or combusted you should have a VM running with your 
 - Ability to scan Hyper-V hosts for exsiting VM's
 
 # Thank you
-If you find this to solve any issues or have suggestions for improvements please feel free to tell me about them
+If you find this to solve any issues or have suggestions for improvements please feel free to tell me about them on twitter @Mokru_
+
